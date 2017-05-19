@@ -2,6 +2,7 @@
 Java 언어에서 초 / 중 / 고등학교의 급식을 가져올 수 있습니다.
 
 ### 예시
+해당 예시는 DSM(Daedeok Software Meister) 고등학교의 오늘 급식을 가져오는 예 입니다.
 <pre><code>
 	HashMap<Integer, Meal> meals = MealAPI.getDSMMeal(new SimpleDate(2017, 5));
 	Date d = new Date();
