@@ -1,7 +1,7 @@
 # Java 초 / 중 / 고등학교 급식 라이브러리
 Java 언어에서 초 / 중 / 고등학교의 급식을 가져올 수 있습니다.
 
-## 예시
+### 예시
 <pre><code>
 	HashMap<Integer, Meal> meals = MealAPI.getDSMMeal(new SimpleDate(2017, 5));
 	Date d = new Date();
@@ -23,8 +23,8 @@ Java 언어에서 초 / 중 / 고등학교의 급식을 가져올 수 있습니다.
 </code></pre>
 
 # 라이센스
-## Developed by SHGroup.
-## WTFPL
+### Developed by SHGroup.
+### WTFPL
 <pre><code>
         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
                     Version 2, December 2004 
